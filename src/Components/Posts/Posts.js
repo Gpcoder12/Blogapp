@@ -65,7 +65,7 @@ export class Posts extends Component {
                                 Tell Your Story to the World
                     </h1>
                             <p>
-                                Join with us! Login or Register. Write your story and share !!
+                                Join with us! Login or Register an account. Write your story and share !!
                     </p>
                         </div>
                         <div className="col-lg-8">
