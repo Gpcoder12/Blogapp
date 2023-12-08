@@ -1,5 +1,5 @@
 .fa {
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .navbar-header a {
@@ -35,7 +35,7 @@ footer {
     background: rgba(0, 123, 255, .0627451);
     color: rgba(0, 123, 255, .6);
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 6px;
     transition: background .2s ease-in-out;
     margin-bottom: .5rem;
     margin-top: 15px;
