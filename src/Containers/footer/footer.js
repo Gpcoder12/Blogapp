@@ -25,7 +25,7 @@ function footer() {
 
                 <SocialMediaHorizontal />
             </footer>
-            <h5 className="text-center copyright"> © Copyrights reserved by Mehul Kothari</h5>
+            <h5 className="text-center copyright"> © Copyrights reserved by Gopolang Mogashoa</h5>
         </>
     )
 }
